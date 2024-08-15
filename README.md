@@ -5,4 +5,4 @@ A Large Language Model (LLM) is an advanced AI designed to understand and genera
 ![My Remote Image](https://opendatascience.com/wp-content/uploads/2023/08/Shutterstock_2298186725.jpg)
 
 ## Task
-https://huggingface.co/datasets?task_categories=task_categories%3Atext-classification
+Text Classification | Text Generation | Question Answering | Summarization | Sentence Similaririty | Sentiment Analsis | Translation
